@@ -1,5 +1,5 @@
 # Online Shopping
-A simple and interactive Online Shopping System built using C++ that allows users to browse products, add them to a cart, and proceed to checkout. This project demonstrates fundamental programming concepts and object-oriented principles.<br>
+<br>A simple and interactive Online Shopping System built using C++ that allows users to browse products, add them to a cart, and proceed to checkout. This project demonstrates fundamental programming concepts and object-oriented principles.<br><br>
 Feautures:-<br>
  <b> 1.Product Management:</b><br>
 	•	View a list of available products with details (name, price, category, etc.).<br>
